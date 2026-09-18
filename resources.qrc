@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/frame0.png</file>
+        <file>images/frame1.png</file>
+        <file>images/frame2.png</file>
+        <file>images/frame3.png</file>
+        <file>images/frame4.png</file>
+        <file>images/frame5.png</file>
+        <file>images/frame6.png</file>
+        <file>images/frame7.png</file>
+        <file>voicelines/v1.mp3</file>
+    </qresource>
+</RCC>
